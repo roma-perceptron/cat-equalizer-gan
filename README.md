@@ -5,4 +5,8 @@ Simple GAN for Cats and interface for generation
 
 Сеть специально сделана так чтобы генерировать котов из шума размерностью (3,) т.е. всего из трех чисел. Это дает возможность создать интерфейс с ползунками, управляя которыми можно задавать параметры шума и смотреть на изменения в генерации. Эдакий эквалайзер для котов. Пример на ipywidgets в конце блокнота.
 
+Colab-версия: https://colab.research.google.com/drive/1iOPMVCEn_lvnBLakJw3MggQ5qGTgzefX?usp=sharing
+
+
 А еще, в тренеровочных целях я сделал web-вариант на базе flask: http://207.154.226.58/cat-generator
+![image](https://user-images.githubusercontent.com/105862211/193251523-0d4b5d9a-80be-4b6e-8ce5-8b7c0cc40c74.png)
